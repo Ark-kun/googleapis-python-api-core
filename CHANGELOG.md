@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.20.0](https://github.com/googleapis/python-api-core/compare/v2.19.0...v2.20.0) (2024-05-03)
+
+
+### Features
+
+* Add caching to GapicCallable ([#527](https://github.com/googleapis/python-api-core/issues/527)) ([d96eb5c](https://github.com/googleapis/python-api-core/commit/d96eb5cdd8120bfec97d62b09512c6fecc325be8))
+
 ## [2.19.0](https://github.com/googleapis/python-api-core/compare/v2.18.0...v2.19.0) (2024-04-29)
 
 
